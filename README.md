@@ -1,5 +1,5 @@
 # brainf-ck_cpp
-某難読言語の自作インタプリタ[これ](https://github.com/5h00T/my_brainf-ck)のc++で書き直してみました
+某難読言語の自作インタプリタ[これ](https://github.com/5h00T/my_brainf-ck)をc++で書き直してみました
 
 # Download and Installation
 ```
